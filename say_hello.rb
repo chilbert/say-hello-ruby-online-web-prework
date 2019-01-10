@@ -3,3 +3,5 @@
 def say_hello(name)
   puts "Hello #{} Black!"
 end
+
+say_hello(Kent Black)
